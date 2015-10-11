@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/featurea-version2/featurea-version2.iml" filepath="$PROJECT_DIR$/featurea-version2/featurea-version2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nutzuma.android.free-version2/fproject/platform-android/platform-android.iml" filepath="$PROJECT_DIR$/nutzuma.android.free-version2/fproject/platform-android/platform-android.iml" />
+    </modules>
+  </component>
+</project>
